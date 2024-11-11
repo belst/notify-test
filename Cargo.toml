@@ -1,0 +1,10 @@
+[package]
+name = "notifytest"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.29.1"
+notify = "7.0.0"
+rand = "0.8.5"
+rfd = "0.15.0"
